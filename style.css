@@ -22,7 +22,7 @@ table{
     border-collapse: collapse;
 }
 
-input, select, table{
+input, table{
     width:100%;
 }
 
@@ -31,4 +31,8 @@ input, select, table{
 }
 .ip{
     width: 90%;
+}
+
+#dob_proof, #ad_proof{
+    width: 100%;
 }
